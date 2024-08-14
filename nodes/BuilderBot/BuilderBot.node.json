@@ -1,0 +1,22 @@
+{
+  "node": "n8n-nodes-builderbot.builderBot",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Communication"],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://builderbot.cloud/api-reference"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://builderbot.cloud/api-authentication"
+      }
+    ]
+  },
+  "alias": ["WhatsApp", "Message", "SMS", "Chat", "BuilderBot", "Messaging", "API"],
+  "subcategories": {
+    "Communication": ["Messaging"]
+  }
+}

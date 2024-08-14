@@ -85,7 +85,7 @@ export class BuilderBot implements INodeType {
       const body = {
         messages: {
           content,
-          mediaUrl: mediaUrl ?? undefined,
+          mediaUrl: mediaUrl.length > 0 ? mediaUrl : undefined,
         },
         number,
       };

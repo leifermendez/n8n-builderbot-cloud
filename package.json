@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-builderbot",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "description": "This node allows to modify texts.",
   "keywords": [
     "n8n-community-node-package"
